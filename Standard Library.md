@@ -16,7 +16,7 @@ Module name is **sys**.
 
 **input** - prompts user to read line - without adding new line after prompt text
     
-    v = sys.input prompt()
+    v = sys.input( prompt)
     prompt: prompt string
     v: user input
 
